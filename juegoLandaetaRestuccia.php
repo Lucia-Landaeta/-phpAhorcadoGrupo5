@@ -6,7 +6,8 @@
     Landaeta Lucía Anahí          FAI-1981
 
  * REPOSIORIOS GIT
-
+    https://github.com/Lucia-Landaeta/-phpAhorcadoGrupo5.git
+    https://github.com/Joshua-Restuccia/phpAhorcadoGrupo5.git 
  ******************************************/
 
 /**
